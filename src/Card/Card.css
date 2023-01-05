@@ -1,0 +1,25 @@
+.card{
+    display: flex;
+    justify-content: center;
+    text-align: left;
+    border: 1px solid gray;
+    width: max-content;
+    padding: 20px 15px;
+}
+.user-img{
+    height: 100px;
+    width: 100px;
+    border-radius: 50%;
+    object-fit: cover;
+}
+.user-info{
+    margin-left: 15px;
+}
+.user-name{
+    margin: 15px 0 0 0;
+}
+.user-mail{
+    margin: 5px 0;
+    color: gray;
+    font-size: 18px;
+}

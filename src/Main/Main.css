@@ -1,0 +1,22 @@
+.main{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    margin-top: 6rem;
+}
+.button-div{
+    margin-top: 25px;
+}
+.btn{
+    background-color: white;
+    border: 2px solid gray;
+    color: gray;
+    padding: 5px 15px;
+    width: max-content;
+    cursor: pointer;
+}
+.btn-active{
+    color: black;
+    border: 2px solid black;
+}

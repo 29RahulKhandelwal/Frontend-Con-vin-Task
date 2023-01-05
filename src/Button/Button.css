@@ -1,0 +1,14 @@
+.btn-number{
+    background-color: white;
+    border: 2px solid blue;
+    color: blue;
+    padding: 5px 15px;
+    width: max-content;
+    cursor: pointer;
+    margin: 0 10px;
+    border-radius: 4px;
+}
+.btn-number-active{
+    background-color: blue;
+    color: white;
+}
